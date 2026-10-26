@@ -1,0 +1,39 @@
+{
+ "model.safetensors": {
+  "sha256": "a16eb0de98d199293371c560f95f83130d2a2c9612449df16839f08ff9498815",
+  "bytes": 2650579464,
+  "parts": [
+   "chunks/model.safetensors.part-00",
+   "chunks/model.safetensors.part-01",
+   "chunks/model.safetensors.part-02",
+   "chunks/model.safetensors.part-03",
+   "chunks/model.safetensors.part-04",
+   "chunks/model.safetensors.part-05",
+   "chunks/model.safetensors.part-06",
+   "chunks/model.safetensors.part-07",
+   "chunks/model.safetensors.part-08",
+   "chunks/model.safetensors.part-09",
+   "chunks/model.safetensors.part-10",
+   "chunks/model.safetensors.part-11",
+   "chunks/model.safetensors.part-12",
+   "chunks/model.safetensors.part-13",
+   "chunks/model.safetensors.part-14",
+   "chunks/model.safetensors.part-15",
+   "chunks/model.safetensors.part-16",
+   "chunks/model.safetensors.part-17",
+   "chunks/model.safetensors.part-18",
+   "chunks/model.safetensors.part-19",
+   "chunks/model.safetensors.part-20",
+   "chunks/model.safetensors.part-21",
+   "chunks/model.safetensors.part-22",
+   "chunks/model.safetensors.part-23",
+   "chunks/model.safetensors.part-24",
+   "chunks/model.safetensors.part-25",
+   "chunks/model.safetensors.part-26",
+   "chunks/model.safetensors.part-27",
+   "chunks/model.safetensors.part-28",
+   "chunks/model.safetensors.part-29"
+  ],
+  "part_size": 90000000
+ }
+}
